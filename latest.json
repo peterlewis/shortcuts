@@ -1,0 +1,19 @@
+{
+   "report_a_full_bin":{
+      "latest_version":1.8,
+      "url":"https:\/\/ptrl.ws\/2xJ7c",
+      "changelog":"Added information about potential SMS costs\n\nBEFORE USING THIS SHORTCUT, PLEASE ENSURE THAT YOU ARE AWARE OF ANY COSTS ASSOCIATED WITH SENDING MESSAGES TO YOUR LOCAL COUNCIL, VIA SMS!",
+      "website":"https:\/\/ptrl.ws\/report-a-full-bin"
+   },
+   "shorten_url":{
+      "latest_version":2.2,
+      "url":"https:\/\/ptrl.ws\/2cpXF",
+      "changelog":"Re-written with “Magic Variables”\nImproved workflow\nImproved setup\nImproved input checks\nRemoved disclaimer.\nNot using UpdateKit for updates quite yet!",
+      "website":"https:\/\/ptrl.ws\/shorten-url"
+   },
+   "update_demo":{
+      "latest_version":1.4,
+      "url":"https:\/\/ptrl.ws\/Q3eYs",
+      "changelog":"Shortcut icon updated\nShortcut colour changed\nDowngrade URL fixed\nVersion number incremented"
+   }
+}
