@@ -14,6 +14,7 @@
    "update_demo":{
       "latest_version":1.4,
       "url":"https:\/\/ptrl.ws\/Q3eYs",
-      "changelog":"Shortcut icon updated\nShortcut colour changed\nDowngrade URL fixed\nVersion number incremented"
+      "changelog":"Shortcut icon updated\nShortcut colour changed\nDowngrade URL fixed\nVersion number incremented",
+      "website":"https:\/\/ptrl.ws\/update-demo"
    }
 }
