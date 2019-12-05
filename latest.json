@@ -6,9 +6,9 @@
       "website":"https:\/\/ptrl.ws\/report-a-full-bin"
    },
    "shorten_url":{
-      "latest_version":2.2,
-      "url":"https:\/\/ptrl.ws\/2cpXF",
-      "changelog":"Re-written with “Magic Variables”\nImproved workflow\nImproved setup\nImproved input checks\nRemoved disclaimer.\nNot using UpdateKit for updates quite yet!",
+      "latest_version":3.0,
+      "url":"https:\/\/ptrl.ws\/V05rh",
+      "changelog":"iOS 13 compatibility",
       "website":"https:\/\/ptrl.ws\/shorten-url"
    },
    "update_demo":{
