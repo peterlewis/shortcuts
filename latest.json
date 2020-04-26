@@ -2,7 +2,7 @@
    "shorten_url":{
       "latest_version":3.2,
       "url":"https:\/\/ptrl.ws\/sc-ShortenURL-32",
-      "changelog":"Fixes an issue that prevented shortening of URLs shared via Sharing Pane\nImproved detection of shortened URL on clipboard\nFixes Shortcut configuration bug, introduced in 3.1. ",
+      "changelog":"Fixes an issue that prevented shortening of URLs shared via Sharing Pane\nImproved detection of shortened URL on clipboard\nFixes Shortcut configuration bug, introduced in 3.1.",
       "website":"https:\/\/ptrl.ws\/shorten-url"
    },
    "update_demo":{
