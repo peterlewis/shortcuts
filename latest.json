@@ -1,8 +1,8 @@
 {
    "shorten_url":{
-      "latest_version":3.0,
-      "url":"https:\/\/ptrl.ws\/sc-ShortenURL-30",
-      "changelog":"Now compatible with iOS 13",
+      "latest_version":3.1,
+      "url":"https:\/\/ptrl.ws\/sc-ShortenURL-31",
+      "changelog":"Fixed an issue that prevented shortening of URLs shared via Sharing Pane",
       "website":"https:\/\/ptrl.ws\/shorten-url"
    },
    "update_demo":{
